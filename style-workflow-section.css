@@ -1,0 +1,23 @@
+.workflow-features {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  .workflow-features .feature {
+    width: 350px;
+    text-align: center;
+  }
+  
+  .feature img {
+    margin-bottom: 2rem;
+  }
+  .workflow-features .feature:first-child img {
+    margin-bottom: 1.5rem;
+  }
+  .brands {
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 10rem;
+  }
+  .brand {
+    margin: 1.5rem;
+  }

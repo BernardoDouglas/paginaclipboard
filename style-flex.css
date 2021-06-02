@@ -1,0 +1,9 @@
+.flex {
+    display: flex;
+  }
+  .flex .img-div {
+    transform: translateX(-20%);
+  }
+  .feature {
+    margin-top: 3rem;
+  }

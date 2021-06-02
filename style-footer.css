@@ -1,0 +1,43 @@
+
+footer {
+  padding-top: 3rem;
+  background-color: hsl(201, 11%, 96%);
+}
+.footer-nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 400px;
+}
+.footer-nav a {
+  color: var(--DarkGrayishBlue);
+}
+.footer-nav a:hover {
+  color: var(--StrongCyan);
+}
+
+.min-logo {
+  width: 50px;
+}
+.min-logo img {
+  width: 100%;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 3rem;
+}
+footer a {
+  color: var(--Grayish-Blue);
+}
+.link {
+  margin-left: 1.5rem;
+}
+.link img {
+  transition: 0.3s ease;
+}
+.link:hover img {
+  transform: translateY(-5px);
+}
+.attribution {
+  text-align: center;
+}

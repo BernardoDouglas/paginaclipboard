@@ -1,0 +1,10 @@
+#head {
+    margin-bottom: 8rem;
+    margin-top: 5rem;
+  }
+  .center-div,
+  .logo {
+    width: 60%;
+    text-align: center;
+    margin: 5rem auto;
+  }

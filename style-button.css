@@ -1,0 +1,19 @@
+.btn {
+    padding: 0.8rem 1.8rem;
+    border-radius: 25px;
+  }
+  .btn:hover {
+    opacity: 0.9;
+  }
+  .buttons {
+    margin-top: 2.5rem;
+    font-weight: 600;
+  }
+  .btn-green {
+    background-color: var(--StrongCyan);
+  }
+  .btn-purple {
+    margin-left: 1rem;
+    background-color: var(--LightBlue);
+  }
+  
